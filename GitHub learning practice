@@ -1,11 +1,1 @@
-# Quoting code
-## Use `git status` to list all new or modified files that haven't yet been committed.
-## Some basic Git commands are:
-   ```
-   git status
-   git add
-   git commit
-   ```
-# Supported color models
-
-
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
