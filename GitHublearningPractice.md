@@ -6,6 +6,7 @@ git status
 git add
 git commit
 ```
+
 # Creating and highlighting code blocks
 ## Fenced code blocks
 ```
@@ -24,7 +25,8 @@ require 'redcarpet'
 markdown = Redcarpet.new("Hello Wolrd!")
 puts markdown.to_html
 ```
-# Using GeoJSON
+
+# Using GeoJSON 语言
 ```geojson
 {
   "type": "FeatureCollection",
