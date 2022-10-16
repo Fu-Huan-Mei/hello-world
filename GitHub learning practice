@@ -1,1 +1,11 @@
+# Quoting code
+## Use `git status` to list all new or modified files that haven't yet been committed.
+## Some basic Git commands are:
+   ```
+   git status
+   git add
+   git commit
+   ```
+# Supported color models
+## The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
 
