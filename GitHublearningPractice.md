@@ -18,3 +18,9 @@ function test{
 Look! You can see my backticks.
 ```
 ````
+## Syntax highlighting
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello Wolrd!")
+puts markdown.to_html
+```
