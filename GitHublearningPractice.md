@@ -27,6 +27,7 @@ puts markdown.to_html
 ```
 # Finding ways to contribute to open source on GitHub
 ## If you are interested in machine learning, you can find relevant projects and good first issues by visiting[https://github.com/topics/machine-learning]
-
+## You can browse popular topics by visiting [Topics].
+## You can also search for repositories that match a topic you're interested in. For more information, see [Searching for repositories."]
 
 
